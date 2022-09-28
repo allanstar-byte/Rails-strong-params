@@ -1,0 +1,2 @@
+class BirdWatcherController < ApplicationController
+end
